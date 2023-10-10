@@ -1,5 +1,5 @@
-name: "CF CLI Action"
-description: "Deploy and manage Cloud Foundry using the cf cli"
+name: "Sap BTP CF CLI Action - Build and Deploy"
+description: "Deploy and build sapui5/nodejs app in Cloud Foundry Runtime using the cf cli"
 branding:
   icon: "upload-cloud"
   color: "blue"
